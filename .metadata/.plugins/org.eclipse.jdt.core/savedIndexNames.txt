@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+/home/dnascimento/projetos/aulasJava/.metadata/.plugins/org.eclipse.jdt.core
+4036161131.index
+1544398381.index
+611947347.index
+548967660.index
+3902479977.index
+421776216.index
+1771814865.index
+1852365340.index
+1611614139.index
+2274746109.index
+4160694898.index
+1218565029.index
+3728141018.index

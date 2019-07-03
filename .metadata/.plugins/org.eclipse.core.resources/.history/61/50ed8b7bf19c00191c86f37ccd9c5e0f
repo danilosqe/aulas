@@ -1,0 +1,16 @@
+package main;
+
+public class Igualdade {
+
+	public static void main(String[] args) {
+		int n1 = 0, n2 = 2;
+		
+		if(n1 == n2) {
+			System.out.println("números iguais!");
+		}
+		else  {
+			System.out.println("números diferentes!");
+		}
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Model&apos; to &apos;model&apos;&#x0A;- Original project: &apos;Polimorfismo&apos;&#x0A;- Original element: &apos;Polimorfismo/src/Model&apos;&#x0A;- Renamed element: &apos;Polimorfismo/src/model&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Model&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Model" name="model" qualified="false" references="true" stamp="1559040447562" textual="false" version="1.0"/>
+</session>

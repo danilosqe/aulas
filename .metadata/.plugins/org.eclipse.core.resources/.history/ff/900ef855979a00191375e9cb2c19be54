@@ -1,0 +1,20 @@
+package principal;
+
+import model.Livro;
+import model.Pessoa;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Pessoa pessoa = new Pessoa();
+		pessoa.setNome("Danilo");
+		pessoa.setEndereço("OdilonBueno");
+		pessoa.setIdade(31);
+		Livro livro = new Livro();
+		livro.setAutor("Stephen Hophikins");
+		livro.setPaginas(30);
+		livro.setTitulo("OCA");
+		pessoa.setLivro(livro);
+	}
+
+}

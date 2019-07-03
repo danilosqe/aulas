@@ -1,0 +1,11 @@
+package main;
+
+public class Atribuicao {
+
+	public static void main(String[] args) {
+		int i = 10;
+		double d = 12.5;
+		String s = "Atribuição";
+	}
+
+}
