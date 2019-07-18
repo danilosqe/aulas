@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<list key="installedFeatures">
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
+		<item value="net.sf.jautodoc.feature:1.14.2.201906011726"/>
 		<item value="org.eclipse.buildship:3.0.1.v20181217-1554"/>
 		<item value="org.eclipse.egit.gitflow.feature:5.3.0.201903130848-r"/>
 		<item value="org.eclipse.egit:5.3.0.201903130848-r"/>
