@@ -9,6 +9,8 @@ public class Conta {
 	public void saque(float valor) {
 		if(this.saldo < valor) {
 			System.out.println("Saldo insuficiente, saldo = " + this.saldo);
+		}else {
+			this.saldo -= valor;
 		}
 		
 	}

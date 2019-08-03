@@ -8,4 +8,6 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="model.Celular"/>
 <fullyQualifiedTypeName name="model.Motorola"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="services.interfaces.ITesteService"/>
 </qualifiedTypeNameHistroy>

@@ -28,6 +28,8 @@ public class MainConta {
 		fazSaque(conta); 
 		fazSaque(contaPoupanca); 
 		fazSaque(contaEspecial); 
+		
+		System.out.println();
 	}
 	
 	public static void fazSaque(Conta conta) {
